@@ -1,5 +1,5 @@
 //
-//  A parser for Neurosky EEG brainwave data for the Processing.
+//  A parser for Neurosky EEG brainwave data for Processing.
 //  see also : https://github.com/kitschpatrol/Arduino-Brain-Library/tree/master/Brain
 //
 import processing.core.PApplet;
